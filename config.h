@@ -95,8 +95,8 @@ const char *colorname[] = {
 	"#eee8d5",  /*  7: white    */
 	"#002b36",  /*  8: brblack  */
 	"#cb4b16",  /*  9: brred    */
-	"#586e75",  /* 10: brgreen  */
-	"#657b83",  /* 11: bryellow */
+	"#859ba3",  /* 10: brgreen  */
+	"#eee8d5",  /* 11: bryellow -- needs to be really bright */
 	"#839496",  /* 12: brblue   */
 	"#6c71c4",  /* 13: brmagenta*/
 	"#93a1a1",  /* 14: brcyan   */
